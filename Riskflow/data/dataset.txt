@@ -1,0 +1,27 @@
+check_email_for_phishing('email_log.txt', 'phishing_indicators.txt')
+
+urgent:10
+immediate action:10
+verify your account:20
+click here:20
+winner:10
+free:10
+prize:10
+update your information:20
+password:10
+login:10
+account suspended:15
+action required:15
+limited time:10
+confirm your identity:20
+unusual activity:20
+verify identity:20
+update account:15
+billing information:15
+security alert:15
+new login:15
+account compromised:20
+credit card:10
+personal information:10
+restricted account:15
+sensitive information:20
